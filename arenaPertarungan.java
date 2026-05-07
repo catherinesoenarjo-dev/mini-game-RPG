@@ -12,7 +12,7 @@ public class arenaPertarungan {
         System.out.println("=======================================");
         System.out.println("ARENA RPG: GELOMBANG MONSTER");
         System.out.println("=======================================\n");
-        System.out.println("AWAS! Sekelompokmonster menghadap Anda!");
+        System.out.println("AWAS! Sekelompok monster menghadap Anda!");
 
         boolean isBermain = true;
 
