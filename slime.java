@@ -8,6 +8,6 @@ public class slime extends musuh {
     }
     @Override
     public void suaraKhas(){
-        System.out.println(this.namaMusuh + ": blub..bllub..blub,,");
+        System.out.println(this.namaMusuh + ": bluub..bllub..bluub..");
     }
 } 
