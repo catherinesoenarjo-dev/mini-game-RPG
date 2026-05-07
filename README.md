@@ -1,44 +1,6 @@
-**HASIL OUTPUT MINI RAME RPG**
-=======================================
-ARENA RPG: GELOMBANG MONSTER
-=======================================
-
-AWAS! Sekelompok monster menghadap Anda!
-
---- STATUS MONSTER ---
-1. Slime Asam(HP: 50)
-2. Naga Bonar(HP: 500)
-3. Slime Asam(HP: 50)
-4. Zombie Brazil(HP: 150)
-5. Kabur dari pertarungan
-
-Pilih target monster yang ingin diserang (1/2/3/4) atau 5 untuk kabur: 
-4
-Masukkan kekuatan serangan Anda (10-100): 
-30
-
->>> HASIL SERANGAN ANDA <<<
-Zombie Brazil terkena serangan biasa. Sisa HP: 120
-
-<<< GILIRAN MONSTER MEMBALAS >>>
-Slime Asam: blub..bllub..blub,,
-Slime Asam melompat dan menyiram cairan asam! Player -15 HP
-Naga Bonar: ROARRR!!
-Naga Bonar menyemburkan nafas api di udara! Player -50 HP
-Slime Asam: blub..bllub..blub,,
-Slime Asam melompat dan menyiram cairan asam! Player -15 HP
-Zombie Brazil: Graphh..Graph..Graphh..
-Zombie Brazil melompat dan terkena gigitan maut! Player -20 HP
------------------------------------------------------------------------------
-
---- STATUS MONSTER ---
-1. Slime Asam(HP: 50)
-2. Naga Bonar(HP: 500)
-3. Slime Asam(HP: 50)
-4. Zombie Brazil(HP: 120)
-5. Kabur dari pertarungan
-
-Pilih target monster yang ingin diserang (1/2/3/4) atau 5 untuk kabur: 
-5
-Anda lari terbirit-birit dari arena...
-Permainan Berakhir.
+**HASIL OUTPUT MINI GAME RPG**
+<img width="794" height="685" alt="image" src="https://github.com/user-attachments/assets/1563de0d-1982-44c9-aa59-6154ce3b1012" />
+<img width="749" height="574" alt="image" src="https://github.com/user-attachments/assets/3ee3e927-cb09-4878-8792-2eda0046ab15" />
+<img width="754" height="568" alt="image" src="https://github.com/user-attachments/assets/b38b8ab0-7625-42a6-882d-6e4e4d76b86d" />
+<img width="791" height="703" alt="image" src="https://github.com/user-attachments/assets/ec35ed07-cb72-4c48-9b33-dad494e0d7ed" />
+<img width="741" height="101" alt="image" src="https://github.com/user-attachments/assets/739aaa8c-33c0-46c1-8f75-beba49589f6d" />
